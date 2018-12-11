@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-11T14:32:37.812Z</updated>
+  <updated>2018-12-11T18:22:11.819Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>About</title>
+    <link href="http://yoursite.com/2018/12/12/About/"/>
+    <id>http://yoursite.com/2018/12/12/About/</id>
+    <published>2018-12-12T10:22:11.000Z</published>
+    <updated>2018-12-11T18:22:11.819Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo</title>
     <link href="http://yoursite.com/2018/12/12/Hexo/"/>
     <id>http://yoursite.com/2018/12/12/Hexo/</id>
     <published>2018-12-12T06:30:50.000Z</published>
-    <updated>2018-12-11T14:32:37.812Z</updated>
+    <updated>2018-12-11T18:01:22.570Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Waiting to be filled<br><a id="more"></a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Waiting to be filled<br><a id="more"></a><br>    <div id="aplayer-tROECNqV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="440241194" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div></p>]]></content>
     
     <summary type="html">
     
@@ -45,7 +66,7 @@
     <published>2018-12-12T05:47:41.000Z</published>
     <updated>2018-12-11T14:21:54.557Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>This is a Aplayer test and a demo for myself. ：)<br> <a id="more"></a><br>    <div id="aplayer-kUdHAlcj" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2145434166" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>This is a Aplayer test and a demo for myself. ：)<br> <a id="more"></a><br>    <div id="aplayer-iAlxdSCT" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2145434166" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div></p>]]></content>
     
     <summary type="html">
     
